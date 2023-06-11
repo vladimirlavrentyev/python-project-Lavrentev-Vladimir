@@ -5,4 +5,4 @@
 - [Парсинг](https://nbviewer.org/github/vladimirlavrentyev/python-project-Lavrentev-Vladimir/blob/main/main.py)
 - [Реализация](https://nbviewer.org/github/vladimirlavrentyev/python-project-Lavrentev-Vladimir/blob/main/result.ipynb)
 - Фотография визуализации
-![Photo Data visualizing](https://github.com/vladimirlavrentyev/python-project-Lavrentev-Vladimir/assets/136271388/a607e89d-b03e-41a3-8adf-a16881b3f57a)
+![Визуализация данных](https://github.com/vladimirlavrentyev/python-project-Lavrentev-Vladimir/assets/136271388/0cb8ab1c-cea0-4075-b71f-10f0e4cd1d04)
